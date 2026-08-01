@@ -6,15 +6,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:2c5364&height=200&section=header&text=Jaino%20Kang&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:2c5364&height=200&section=header&text=Jinho%20Kang&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=800&color=4FC3F7&center=true&vCenter=true&width=680&lines=NLP+%2F+LLM+safety+%E2%80%94+detection+that+explains+itself;Causal+inference+on+real+business+data;From+messy+logs+to+a+model+someone+can+actually+ship" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=800&color=4FC3F7&center=true&vCenter=true&width=680&lines=NLP+%2F+LLM+safety+%E2%80%94+detection+that+explains+itself;Designing+artifacts%2C+not+just+training+models;From+problem+framing+to+something+you+can+ship" alt="Typing SVG"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<YOUR_EMAIL>)
+[![Email](https://img.shields.io/badge/jinho5080@yonsei.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinho5080@yonsei.ac.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<LINKEDIN_URL>)
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](<PORTFOLIO_URL>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](<PORTFOLIO_URL>)
 
 </div>
 
@@ -22,13 +22,14 @@
 
 ## 👋 Hi there
 
-데이터에서 **의사결정에 쓸 수 있는 답**을 만드는 일을 합니다.
-모델 성능만 올리는 것보다, *왜 그런 결과가 나왔는지* 설명하고 *실제로 효과가 있었는지* 검증하는 데 강점이 있습니다.
+**문제를 풀어주는 것**을 만드는 데 관심이 있습니다.
+모델 성능 숫자보다, 그게 어떤 문제를 해결하려고 설계된 것인지 · 왜 그렇게 판단했는지 설명할 수 있는지를 더 중요하게 봅니다.
 
 - 🔭 지금은 **LLM 적대적 프롬프트 탐지 모델**을 만들고 있어요 — 탐지 근거를 사람이 검토할 수 있는 구조로
-- 🌱 요즘 관심사는 **Multimodal 신호(음성·영상) 결합**과 **인과추론 기반 성과 검증**
-- 💬 텍스트 분류 / 인과추론 / 해석 가능한 ML 관련해서는 편하게 물어보세요
-- 🎯 **Data Scientist · ML Engineer · Applied Researcher** 포지션을 찾고 있습니다
+- 🌱 요즘 관심사는 **Explainable AI**와 **이론에 기반한 모델 설계**
+- 🧩 문제 정의 → 설계 → 구현 → 평가까지 한 사이클로 끌고 가는 걸 좋아합니다
+- 💬 NLP · 해석 가능한 ML · 데이터 기반 문제 정의 관련해서는 편하게 물어보세요
+- 🎯 **Data Scientist · ML Engineer · AI Researcher** 포지션을 찾고 있습니다
 
 <br/>
 
@@ -66,66 +67,29 @@
 
 | | |
 |:---|:---|
-| **NLP / LLM** | 한국어 Transformer 파인튜닝(KcELECTRA·BERT 계열), 적대적 프롬프트 탐지, 개념 단위로 근거를 내놓는 해석 가능한 분류기 설계 |
-| **Causal Inference** | Fixed Effects, 2SRI, 내생성 처리, A/B·준실험 설계 — "상관"이 아니라 "효과"를 말할 수 있게 |
-| **Data Engineering** | 비정형 로그(영상·음성·채팅) → 분석 가능한 패널 데이터로 가공, DB 스키마 설계 및 정규화 |
-| **Prototyping** | 분석 결과를 바로 써볼 수 있는 대시보드·데모로 구현, 이해관계자용 문서화 (국문/영문) |
+| **NLP / LLM** | 한국어 Transformer 파인튜닝(KcELECTRA·BERT 계열), 적대적 프롬프트 탐지, 텍스트 분류 |
+| **Explainable ML** | Concept Bottleneck 등 해석 가능한 구조 설계, ablation·개념 개입으로 "왜 그렇게 판단했나" 검증 |
+| **Artifact Design** | 문제 정의 → 설계 원리 도출 → 구현 → 평가 설계까지, 만든 것의 근거를 문서로 남기는 방식 (Design Science) |
+| **Data & Prototyping** | 비정형 로그(영상·음성·채팅) 가공, DB 스키마 설계, Streamlit 데모·대시보드 구현 |
 
 <br/>
 
 ## 📌 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Explainable Prompt-Attack Detection
-LLM 공격 프롬프트를 **"왜 위험한지" 개념 단위로 근거를 내놓는** 탐지 모델.
-블랙박스 분류기와 달리 탐지 근거를 사람이 검토·수정할 수 있어 운영 환경에 적합.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 📺 Live Commerce Sales Driver Analysis
-라이브커머스 방송의 **분 단위 발화가 매출에 미치는 실제 효과**를 추정.
-텍스트 분류로 발화 전략을 자동 태깅하고 음성·영상 신호를 조절변수로 투입.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Causal](https://img.shields.io/badge/Causal_Inference-8A4FFF?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 Manufacturing Digital Twin
-제조 공정 시뮬레이션 및 모니터링 대시보드 프로토타입.
-
-![Dashboard](https://img.shields.io/badge/Dashboard-00B8A9?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🕹️ Equipment Management System
-요구사항 정의 → ERD 설계 → 쿼리 최적화 → 웹 앱까지 풀사이클 구현.
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-</tr>
-</table>
+| Project | What it is | Stack |
+|:---|:---|:---|
+| 🛡️ **Explainable Prompt-Attack Detection** | 탐지 근거를 개념 단위로 내놓는 LLM 공격 프롬프트 탐지 모델 | `PyTorch` `Transformers` |
+| 📺 **Live Commerce Analytics** | 라이브커머스 방송의 발화 전략을 자동 태깅하고 판매 성과와 연결 | `Python` `KcELECTRA` |
+| 🏭 **Manufacturing Digital Twin** | 제조 공정 모니터링 대시보드 프로토타입 | `Dashboard` `Simulation` |
+| 🕹️ **Equipment Management System** | ERD 설계부터 웹 앱까지 풀사이클 구현 | `MySQL` `Streamlit` |
 
 <br/>
 
 ## 🧭 How I Work
 
-> **1. 문제부터 정의합니다.** 어떤 의사결정을 바꾸려는 건지 먼저 합의하고 시작합니다.
-> **2. 설명 가능한 걸 만듭니다.** 현장에서 쓰이려면 결과에 근거가 붙어야 한다고 봅니다.
-> **3. 효과를 검증합니다.** 상관이 아니라 인과로, 사후 해석이 아니라 사전 설계로.
+> **1. 문제부터 정의합니다.** 뭘 개선하려는 건지 합의하고 시작합니다.
+> **2. 근거 있게 설계합니다.** 구조를 왜 그렇게 잡았는지 설명할 수 있어야 한다고 봅니다.
+> **3. 만든 걸 평가합니다.** 성능 수치 하나가 아니라, 설계 요소별로 기여를 확인합니다.
 
 <br/>
 
