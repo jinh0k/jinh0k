@@ -18,7 +18,7 @@
 
 <br/>
 
-## 👋 Hi Wlecome to my git
+## 👋 Hi, Welcome to my GitHub
 
 **실제 문제를 풀어주는 결과물**을 만드는 데 관심이 있습니다.
 모델 성능 숫자보다, 그게 어떤 문제를 해결하려고 설계된 것인지 · 왜 그렇게 판단했는지 설명할 수 있는지를 더 중요하게 봅니다.
@@ -27,7 +27,7 @@
 - 🌱 관심 분야는 **Anomaly Detection · Demand Forecasting · Explainable AI**, 그리고 AI 확산이 전력·금융 같은 산업에 미치는 영향을 데이터로 검증하는 일
 - 🧩 문제 정의 → 설계 → 구현 → 평가까지 한 사이클로 끌고 가는 걸 좋아합니다
 - 💬 NLP · 해석 가능한 ML · 데이터 기반 문제 정의 관련해서는 편하게 물어보세요
-- 🎯 **Data Scientist · ML Engineer · AI Researcher** 
+- 🎯 **Data Scientist · ML Engineer · AI Researcher**
 
 <br/>
 
@@ -62,7 +62,7 @@
 **AI Tooling & Dev**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -97,13 +97,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jinh0k&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinh0k&layout=compact&theme=nord&hide_border=true&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jinh0k&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinh0k&layout=compact&hide_border=true&langs_count=8&title_color=4FC3F7&text_color=c9d1d9&bg_color=0d1117"/>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=jinh0k&style=flat-square&color=4fc3f7" alt="profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:203a43&height=120&section=footer" width="100%"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:203a43&height=120&section=footer" width="100%"/>
