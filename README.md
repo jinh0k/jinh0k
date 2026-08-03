@@ -20,24 +20,23 @@
 
 ## 👋 Hi, Welcome to my GitHub
 
-**실제 문제를 풀어주는 결과물**을 만드는 데 관심이 있습니다.
-모델 성능 숫자보다, 그게 어떤 문제를 해결하려고 설계된 것인지 · 왜 그렇게 판단했는지 설명할 수 있는지를 더 중요하게 봅니다.
+Building things that solve real problems — less about the metric score, more about what a model is designed to solve and whether the reasoning can be explained.
 
-- 🔭 지금은 **LLM 적대적 프롬프트 탐지 모델**을 만들고 있어요 — 탐지 근거를 사람이 검토할 수 있는 구조로 (F1 0.979)
-- 🌱 관심 분야는 **Anomaly Detection · Demand Forecasting · Explainable AI**, 그리고 AI 확산이 전력·금융 같은 산업에 미치는 영향을 데이터로 검증하는 일
-- 🧩 문제 정의 → 설계 → 구현 → 평가까지 한 사이클로 끌고 가는 걸 좋아합니다
-- 💬 NLP · 해석 가능한 ML · 데이터 기반 문제 정의 관련해서는 편하게 물어보세요
+- 🔭 Building an **explainable adversarial-prompt detector** for LLMs — evidence a human can review (F1 0.979)
+- 🌱 Interested in **Anomaly Detection · Demand Forecasting · Explainable AI** — and using data to test how AI adoption reshapes industries like power and finance
+- 🧩 Like carrying one full cycle — problem framing → design → build → evaluation
+- 💬 Ask me about NLP · interpretable ML · data-driven problem framing
 - 🎯 **Data Scientist · ML Engineer · AI Researcher**
 
 <br/>
 
 ## 🏅 Highlights
 
-- 📄 **APJIS 제1저자 게재** — *Electricity Demand in the Age of AI and Cloud* (Vol. 35 No. 4, 2025, pp. 933–954)
-- 🏦 **금융위원회 D-테스트베드 최우수상**(한국핀테크지원센터장상) — 그래프 기반 XAI 신용평가 (2025)
-- 🥇 **공모전 최우수상 4회** — KOPIS 빅데이터 · 적대적 프롬프트 탐지 · TwinCept 등 / 🏆 한국전자거래학회 **대상** (GEO Auditor)
-- 🌏 **SIBR 2025 (Osaka) 발표** — Structuring the Generative AI Function Space
-- 📈 **LG Aimers 5기 상위 5%** (698팀 중 33위) — 공정 이상탐지
+- 📄 **First-author paper, APJIS** — *Electricity Demand in the Age of AI and Cloud* (Vol. 35 No. 4, 2025, pp. 933–954)
+- 🏦 **Grand Prize, FSC D-Testbed** (Korea Fintech Center Director's Award) — graph-based XAI credit scoring (2025)
+- 🥇 **4× Grand Prize in competitions** — KOPIS Big Data · Adversarial Prompt Detection · TwinCept / 🏆 **Grand Prize**, Korea Society for e-Business (GEO Auditor)
+- 🌏 **Speaker, SIBR 2025 (Osaka)** — Structuring the Generative AI Function Space
+- 📈 **Top 5%, LG Aimers 5th** (33rd of 698 teams) — process anomaly detection
 
 <br/>
 
@@ -75,21 +74,21 @@
 
 | Project | What it is | Outcome |
 |:---|:---|:---|
-| 🛡️ **FM-CBM: Explainable Prompt-Attack Detection** | 표현이 변해도 반복되는 조작 방식을 IMT 기반 13개 개념으로 구조화, 개념만을 근거로 판단하는 탐지 모델 | **F1 0.979** · 설명가능 baseline 상회 |
-| ⚡ **AI-Era Electricity Demand Forecasting** | GPT 검색량·클라우드 시장 규모를 DML로 검증해 수요 예측에 통합, SSP585 시나리오 2045년 시뮬레이션 | **APJIS 게재 (제1저자)** |
-| 🏦 **Graph-based XAI Credit Scoring** | 설명 가능한 신용평가를 위한 그래프 기반 XAI — 금융위원회 D-테스트베드 실증 | **최우수상 (핀테크지원센터장상)** |
-| 🌦️ **SWIFT: Weather-Aware Sales Prediction** | 10만 건 라이브커머스 방송에 기상 시차 정보를 결합한 멀티모달 판매 예측 + 편성 의사결정 지원 시뮬레이션 | MAE **5.93% 개선** (10만 건 · 5-fold) |
-| 🔍 **GEO Auditor Agent** | 웹페이지 코드를 파싱해 AI 검색 인용 가능성을 진단하고 수정 지점까지 제안 | 한국전자거래학회 **대상** |
-| 💬 **FINZ: Context-Aware Financial Agent** | MZ세대를 위한 맥락 인지형 금융 Agent 설계 | 한국지식경영학회 장려상 |
+| 🛡️ **FM-CBM: Explainable Prompt-Attack Detection** | Structures recurring manipulation patterns into 13 IMT-based concepts; decides on concepts alone as evidence | **F1 0.979** · beats explainable baselines |
+| ⚡ **AI-Era Electricity Demand Forecasting** | Validates GPT search volume & cloud market size with DML, folds them into demand forecasts; simulates SSP585 to 2045 | **Published in APJIS (first author)** |
+| 🏦 **Graph-based XAI Credit Scoring** | Graph-based XAI for explainable credit scoring — piloted at the FSC D-Testbed | **Grand Prize (Fintech Center Director's Award)** |
+| 🌦️ **SWIFT: Weather-Aware Sales Prediction** | Multimodal sales prediction fusing lagged weather signals across 100K live-commerce broadcasts + scheduling decision-support simulation | MAE **−5.93%** (100K rows · 5-fold) |
+| 🔍 **GEO Auditor Agent** | Parses page code to diagnose AI-search citability and pinpoint where to fix | **Grand Prize**, Korea Society for e-Business |
+| 💬 **FINZ: Context-Aware Financial Agent** | Context-aware financial agent designed for the MZ generation | Encouragement Award, Korea Knowledge Mgmt Society |
 
 <br/>
 
 ## 🧭 How I Work
 
-> **1. 문제부터 정의합니다.** 뭘 개선하려는 건지 합의하고 시작합니다.
-> **2. 근거 있게 설계합니다.** 구조를 왜 그렇게 잡았는지 설명할 수 있어야 한다고 봅니다.
-> **3. 만든 걸 평가합니다.** 성능 수치 하나가 아니라, 설계 요소별로 기여를 확인합니다.
-> **4. AI와 함께 만듭니다.** Claude Code·Codex로 실험을 진행하되, 생성된 코드는 데이터 분포·실행 조건·평가지표를 검증한 뒤에만 씁니다.
+> **1. Define the problem first.** Agree on what we're improving before anything starts.
+> **2. Design with reasons.** Should be able to explain why the structure is what it is.
+> **3. Evaluate what's built.** Not one score — contribution checked per design element.
+> **4. Build with AI.** Run experiments with Claude Code · Codex; ship generated code only after checking data distribution, run conditions, and metrics.
 
 <br/>
 
