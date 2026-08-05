@@ -14,6 +14,7 @@
 **Data Scientist — 실제 의사결정을 돕는 설명 가능한 ML 아티팩트를 만듭니다.**
 
 [![Email](https://img.shields.io/badge/jinho5080@yonsei.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinho5080@yonsei.ac.kr)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=DjM_5hkAAAAJ&hl=en)
 
 <br/>
 
