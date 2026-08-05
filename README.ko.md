@@ -13,6 +13,14 @@
 
 **Data Scientist — 비즈니스 문제를 구조화되고, 설명 가능하며, 검증 가능한 머신러닝 솔루션으로 바꿉니다.**
 
+<br/>
+
+![Structured-Data ML](https://img.shields.io/badge/Structured--Data_ML-203a43?style=flat-square)
+![Demand Forecasting](https://img.shields.io/badge/Demand_Forecasting-234b60?style=flat-square)
+![Credit Scoring](https://img.shields.io/badge/Credit_Scoring-2c5364?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-234b60?style=flat-square)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-4FC3F7?style=flat-square&labelColor=2c5364)
+
 </div>
 
 <br/>
@@ -108,6 +116,11 @@ MZ세대를 위해 설계한 맥락 인지형 금융 어시스턴트. 한국지�
 <br/>
 
 ## 논문 및 수상
+
+![APJIS First Author](https://img.shields.io/badge/APJIS-First_Author-203a43?style=flat-square)
+![Grand Prize ×4](https://img.shields.io/badge/Grand_Prize-%C3%974-2c5364?style=flat-square)
+![SIBR 2025 Speaker](https://img.shields.io/badge/SIBR_2025-Speaker-234b60?style=flat-square)
+![LG Aimers Top 5%](https://img.shields.io/badge/LG_Aimers-Top_5%25-EE4C2C?style=flat-square)
 
 - **논문** — *Electricity Demand in the Age of AI and Cloud*, APJIS Vol. 35 No. 4 (2025), pp. 933–954. 제1저자.
 - **발표** — SIBR 2025 (Osaka): *Structuring the Generative AI Function Space*.
