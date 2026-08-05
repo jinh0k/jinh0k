@@ -93,7 +93,7 @@ Parses web-page code to diagnose how citable a page is to AI search and points t
 
 ### Display-Process Anomaly Detection
 
-Anomaly detection on display-manufacturing process data. Top 5% (33rd of 698 teams), LG Aimers 5th (2024.09).
+Anomaly detection on display-manufacturing process data. LG Aimers 5th (2024.09).
 
 <br/>
 
