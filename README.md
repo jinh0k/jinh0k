@@ -140,7 +140,7 @@ Anomaly detection on display-manufacturing process data. Top 5% (33rd of 698 tea
 ![Journal Papers ×3](https://img.shields.io/badge/Journal_Papers-%C3%973-234b60?style=flat-square)
 ![Grand Prize ×4](https://img.shields.io/badge/Grand_Prize-%C3%974-2c5364?style=flat-square)
 ![SIBR 2025 Speaker](https://img.shields.io/badge/SIBR_2025-Speaker-234b60?style=flat-square)
-![LG Aimers Top 5%](https://img.shields.io/badge/LG_Aimers-Top_5%25-EE4C2C?style=flat-square)
+![LG Aimers Top 5%](https://img.shields.io/badge/LG_Aimers-25-EE4C2C?style=flat-square)
 
 **Journal Publications**
 
@@ -164,7 +164,7 @@ Anomaly detection on display-manufacturing process data. Top 5% (33rd of 698 tea
 - **Grand Prize** — GEO Auditor, Korea Society for e-Business.
 - **Encouragement Award** — "FINZ: context-aware financial agent for the MZ generation," Korea Knowledge Management Society autumn student idea competition (2025.11).
 - **Encouragement Award** — Generative-AI marketing proposal for small businesses (2024.11).
-- **Top 5% (33rd of 698 teams)** — Display-process anomaly detection, LG Aimers 5th (2024.09).
+- **LG Aimers 5th** — Display-process anomaly detection, LG Aimers 5th (2024.09).
 
 <br/>
 
