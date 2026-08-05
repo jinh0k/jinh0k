@@ -140,7 +140,7 @@
 ![Journal Papers ×3](https://img.shields.io/badge/Journal_Papers-%C3%973-234b60?style=flat-square)
 ![Grand Prize ×4](https://img.shields.io/badge/Grand_Prize-%C3%974-2c5364?style=flat-square)
 ![SIBR 2025 Speaker](https://img.shields.io/badge/SIBR_2025-Speaker-234b60?style=flat-square)
-![LG Aimers Top 5%](https://img.shields.io/badge/LG_Aimers-Top_5%25-EE4C2C?style=flat-square)
+![LG Aimers 5th](https://img.shields.io/badge/LG_Aimers-Top_5%25-EE4C2C?style=flat-square)
 
 **학술지 논문**
 
@@ -164,7 +164,7 @@
 - **대상** — GEO Auditor, 한국전자거래학회.
 - **장려상** — "MZ세대를 위한 맥락 인지형 금융 Agent: FINZ", 한국지식경영학회 추계학술대회 대학(원)생 아이디어 공모전 (2025.11).
 - **장려상** — 생성형 AI를 활용한 소상공인 마케팅 방안 제안 (2024.11).
-- **상위 5% (698팀 중 33위)** — 디스플레이 공정 이상 탐지, LG Aimers 5기 (2024.09).
+- **LG Aimers 5기 수료** — 디스플레이 공정 이상 탐지, LG Aimers 5기 (2024.09).
 
 <br/>
 
